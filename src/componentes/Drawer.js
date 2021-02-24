@@ -9,7 +9,6 @@ import Divider from '@material-ui/core/Divider';
 import AccountCircleIcon from '@material-ui/icons/AccountCircle';
 import ExitToAppIcon from '@material-ui/icons/ExitToApp';
 import EditIcon from '@material-ui/icons/Edit';
-import './Drawer.css'
 import Toolbar from '@material-ui/core/Toolbar';
 import MenuIcon from '@material-ui/icons/Menu';
 import {Cards} from './Cards'
