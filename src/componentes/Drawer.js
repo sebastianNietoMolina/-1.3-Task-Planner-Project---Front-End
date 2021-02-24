@@ -14,7 +14,6 @@ import MenuIcon from '@material-ui/icons/Menu';
 import {Cards} from './Cards'
 
 export class DrawerLogin extends React.Component{
-
     constructor(props){
         super(props)
         this.state = { left: false }
