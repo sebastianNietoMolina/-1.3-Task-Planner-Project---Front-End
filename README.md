@@ -1,6 +1,17 @@
 ## _Despliegue en Heroku_ 
 [![Deployed to Heroku](https://www.herokucdn.com/deploy/button.png)](https://labieti3sebnieto.herokuapp.com/)
 
+## Datos para ingresar
+
+```
+  Usuario: juan@gmail.com
+  Contraseña: prueba
+```
+
+## Prueba offline
+
+![](fotos/pruebaServiceWorkers.PNG)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
